@@ -1,0 +1,10 @@
+git 버전 확인
+git --version
+프로젝트 디렉토리에 로컬 저장소 생성
+git init
+git 버전 관리할 파일을 선택: stage에 올림
+git add test.py
+버전 만들기
+git commit -m "test.py를 커밋"
+로그 확인
+git log
