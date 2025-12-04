@@ -7,4 +7,4 @@ git add test.py
 버전 만들기
 git commit -m "test.py를 커밋"
 로그 확인
-git log
+git loggi
